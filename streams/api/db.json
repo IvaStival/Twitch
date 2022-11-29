@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a good Stream!",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "Better stream ever!",
+      "id": 2
+    },
+    {
+      "title": "This is a good stream",
+      "description": "The best Stream ever",
+      "userId": "115716434217991068407",
+      "id": 3
+    },
+    {
+      "title": "Testing navigation",
+      "description": "This is a test!",
+      "userId": "115716434217991068407",
+      "id": 4
+    },
+    {
+      "title": "A new test navigation",
+      "description": "test",
+      "userId": "115716434217991068407",
+      "id": 5
+    },
+    {
+      "title": "Other navigation test!",
+      "description": "Let's go again!",
+      "userId": "115716434217991068407",
+      "id": 6
+    },
+    {
+      "title": "Reuse Code",
+      "description": "Editing the stream again 3!",
+      "id": 13
+    }
+  ]
+}
